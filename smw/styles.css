@@ -1,0 +1,22 @@
+body {
+    background-image: url("smw.png");
+}
+
+h1 {
+    color: black;
+}
+
+game {
+    width: 680px;
+    height: 480px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+p1 {
+    text-align: center;
+    color: black;
+    
+}
