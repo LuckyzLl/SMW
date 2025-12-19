@@ -1,5 +1,8 @@
 body {
     background-image: url("smw1.png");
+    background-size: 1320px 600px;
+    background-repeat: no-repeat;
+
 }
 
 body h1 {
