@@ -2,24 +2,27 @@ body {
     background-image: url("smw1.png");
     background-size: 1320px 600px;
     background-repeat: no-repeat;
-
+    align-items: center;
+     justify-content: center;
 }
 
-body h1 {
-    color: black;
+body p1 {
     text-align: center;
+    color: black;
 }
 
-game {
+#game {
     width: 680px;
     height: 480px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
     padding-top: 15px;
+    margin: 40px auto;
+
 }
 
-p1 {
+p {
     text-align: center;
     color: black;
     

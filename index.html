@@ -8,15 +8,16 @@
         <body>
             <h1>Super Mario World Online</h1>
 
-            <div id="game"></div>
+            <div id="game">Loading Emulator...</div>
+
 
             <script>
                 window.EJS_player = "#game";
-                window.EJS_core = "snes9x";
+                window.EJS_core = "snes";
                 window.EJS_gameUrl = "roms/SMW.sfc";
 
                 window.EJS_startOnLoaded = true;
-                window.EJS_pathtodata = "EmulatorJS/data/";
+                window.EJS_pathtodata = "/EmulatorJS/data/";
             </script>
 
             <script src="EmulatorJS/data/loader.js"></script>
