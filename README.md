@@ -1,6 +1,7 @@
 # SMW
 
-<img width="1920" height="1200" alt="smw1" src="https://github.com/user-attachments/assets/ffd53639-1bae-4e8f-91d6-1d5fa2247725" />
+![smw](https://github.com/user-attachments/assets/f65ba361-6015-4b6b-9386-7cf4b09f542e)
+
 
 Super Mario World Online
 Powered by EmulatorJS
